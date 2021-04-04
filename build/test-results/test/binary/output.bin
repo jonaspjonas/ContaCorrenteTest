@@ -1,0 +1,16 @@
+
+getSaldo
+saldo
+ComposiÃ§Ã£o do saldo
+Saldo : 0.0
+Especial : 0.0
+Total para saque : 0.0
+setEspecial
+getEspecial
+setLimite
+getLimite
+	setNome
+	setNum
+
+
+setSaldo

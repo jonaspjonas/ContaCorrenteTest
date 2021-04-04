@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testes" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-04-04T20:32:34" hostname="FAMILIAOLIVEIRA" time="0.14">
+  <properties/>
+  <testcase name="testGetSaldo()" classname="Testes" time="0.049"/>
+  <testcase name="testSaldo()" classname="Testes" time="0.018"/>
+  <testcase name="testSetEspecial()" classname="Testes" time="0.005"/>
+  <testcase name="testGetEspecial()" classname="Testes" time="0.006"/>
+  <testcase name="testSetLimite()" classname="Testes" time="0.007"/>
+  <testcase name="testGetLimite()" classname="Testes" time="0.007"/>
+  <testcase name="testSetNome()" classname="Testes" time="0.013"/>
+  <testcase name="testSetNum()" classname="Testes" time="0.001"/>
+  <testcase name="testSetSaldo()" classname="Testes" time="0.002"/>
+  <system-out><![CDATA[getSaldo
+saldo
+ComposiÃ§Ã£o do saldo
+Saldo : 0.0
+Especial : 0.0
+Total para saque : 0.0
+setEspecial
+getEspecial
+setLimite
+getLimite
+setNome
+setNum
+setSaldo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
