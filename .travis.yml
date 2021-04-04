@@ -4,7 +4,7 @@ jdk:
   - openjdk8
 
 script:
-  - junit Testes.java
+  - Testes.java
 
 before_install:
   - chmod +x gradlew
@@ -13,4 +13,3 @@ notification:
   email:
     - on_failure: never
     ufrapl21@gmail.com
-    jonaspjonas@gmail.com
