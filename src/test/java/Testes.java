@@ -75,10 +75,5 @@ public class Testes {
         instance.saldo(c);
     }
 
-    @Test
-    public void test1(){
-        System.out.println("passou");
-    }
-
 
 }
