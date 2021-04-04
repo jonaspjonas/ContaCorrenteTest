@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Testes" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-04-04T20:32:34" hostname="FAMILIAOLIVEIRA" time="0.14">
+<testsuite name="Testes" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-04-04T21:54:00" hostname="FAMILIAOLIVEIRA" time="0.096">
   <properties/>
-  <testcase name="testGetSaldo()" classname="Testes" time="0.049"/>
-  <testcase name="testSaldo()" classname="Testes" time="0.018"/>
-  <testcase name="testSetEspecial()" classname="Testes" time="0.005"/>
-  <testcase name="testGetEspecial()" classname="Testes" time="0.006"/>
-  <testcase name="testSetLimite()" classname="Testes" time="0.007"/>
-  <testcase name="testGetLimite()" classname="Testes" time="0.007"/>
-  <testcase name="testSetNome()" classname="Testes" time="0.013"/>
-  <testcase name="testSetNum()" classname="Testes" time="0.001"/>
-  <testcase name="testSetSaldo()" classname="Testes" time="0.002"/>
+  <testcase name="testGetSaldo()" classname="Testes" time="0.053"/>
+  <testcase name="testSaldo()" classname="Testes" time="0.019"/>
+  <testcase name="testSetEspecial()" classname="Testes" time="0.003"/>
+  <testcase name="testGetEspecial()" classname="Testes" time="0.002"/>
+  <testcase name="test1()" classname="Testes" time="0.0"/>
+  <testcase name="testSetLimite()" classname="Testes" time="0.001"/>
+  <testcase name="testGetLimite()" classname="Testes" time="0.001"/>
+  <testcase name="testSetNome()" classname="Testes" time="0.002"/>
+  <testcase name="testSetNum()" classname="Testes" time="0.002"/>
+  <testcase name="testSetSaldo()" classname="Testes" time="0.001"/>
   <system-out><![CDATA[getSaldo
 saldo
 ComposiÃ§Ã£o do saldo
@@ -18,6 +19,7 @@ Especial : 0.0
 Total para saque : 0.0
 setEspecial
 getEspecial
+passou
 setLimite
 getLimite
 setNome

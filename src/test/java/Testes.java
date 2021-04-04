@@ -1,4 +1,5 @@
 import org.junit.jupiter.api.Test;
+import org.w3c.dom.ls.LSOutput;
 
 public class Testes {
     @Test
@@ -72,6 +73,11 @@ public class Testes {
         Conta c = null;
         Conta instance = new Conta();
         instance.saldo(c);
+    }
+
+    @Test
+    public void test1(){
+        System.out.println("passou");
     }
 
 

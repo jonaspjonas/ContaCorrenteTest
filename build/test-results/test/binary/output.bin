@@ -7,10 +7,11 @@ getSaldo
 Total para saque : 0.0
 setEspecial
 getEspecial
-setLimite
-getLimite
-	setNome
-	setNum
+passou
+setLimite
+getLimite
+		setNome
 
-
+setNum
+
 setSaldo
